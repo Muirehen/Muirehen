@@ -1,9 +1,11 @@
-<h1 align="center">Hi there, I'm Kirill
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="30px"/>
-</h1>
 
+<div id="header" align="center">
   <img src="https://github.com/Muirehen/images/blob/master/20230909-LND_7104.jpg">
 </div>
+<h1 align="center">Hi there, I'm Kirill
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif">
+</h1>
+
 
 - 👋 Hi, I’m @Muirehen
 - 👀 I’m interested in ...
