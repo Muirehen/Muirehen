@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://disk.yandex.ru/i/l4aAgwFirhOHfQ">
+  <img src="https://disk.yandex.ru/i/l4aAgwFirhOHfQ" width="100"/>
 </div>
 
 - 👋 Hi, I’m @Muirehen
