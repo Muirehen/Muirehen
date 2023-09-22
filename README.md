@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Muirehen/images/20230909-LND_7104.jpg>
+  <img src="https://github.com/Muirehen/images/blob/master/20230909-LND_7104.jpg">
 </div>
 
 - 👋 Hi, I’m @Muirehen
