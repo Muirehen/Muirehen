@@ -1,5 +1,6 @@
-<h1 align="center">Hi there, I'm Daniil
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
   <img src="https://github.com/Muirehen/images/blob/master/20230909-LND_7104.jpg">
