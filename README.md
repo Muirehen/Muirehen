@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Kirill>
-<img src="https://github.com/Muirehen/images/blob/master/pepe.gif" height="32">
+<img src="https://github.com/Muirehen/images/blob/master/pepe.gif">
 </h1>
 
 <div id="header" align="center">
