@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Kirill
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif">
 </h1>
-
+<h3 align="center">Junior Data Scientist 🇷🇺</h3>
 
 - 👋 Hi, I’m @Muirehen
 - 👀 I’m interested in ...
