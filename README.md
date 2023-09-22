@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Kirill</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
 <div id="header" align="center">
   <img src="https://github.com/Muirehen/images/blob/master/20230909-LND_7104.jpg">
 </div>
