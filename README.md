@@ -2,16 +2,16 @@
 <div id="header">
   <img src="https://github.com/Muirehen/images/blob/master/20230909-LND_7104.jpg" alt="Whale"/>
   
-  <h2 style="text-decoration:none"> Hello there, I'm Kirill Gusev
+  <h2 style="text-decoration:none"> Привет, меня зовут Кирилл
     <img src="https://github.com/Muirehen/images/blob/master/pepe_chair.jpg" width=40 alt=""/>
   </h2>
 </div>
-<h3> :man_technologist: About me :</h3>
+<h3> :man_technologist: Обо мне :</h3>
 
-- I'm a Junior Data Scientist from Moscow.
-- Studied at Yandex Practicum.
-- ⚡ Looking for a job as ML Engineer || Data Science Specialist.
-- In my free time, I'm into rockclimbing and photography.
+- Junior Data Scientist из Москвы.
+- Учился в Яндекс Практикуме.
+- ⚡ В данный момент ищу работу как ML Engineer || Data Science Specialist.
+- В свободное время занимаюсь скалолазанием и фотографией.
 
 <div id="badges" >
   <a href="https://linkedin.com/in/kirill-gusev">
@@ -28,7 +28,7 @@
 
 ---
 
-<h3> :hammer_and_wrench: Languages and Tools : </h3>
+<h3> :hammer_and_wrench: Технологии : </h3>
 <p >
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
