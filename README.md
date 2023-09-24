@@ -50,33 +50,16 @@
 
 <h3 align="center"> :telescope: Учебные проекты Data Science </h3>
 
-| **Проект** | **Тип исследования** |
-| -------------------- | :--------------------- |
-| [01. Машинное обучение для текстов](https://nbviewer.jupyter.org/github/Muirehen/learning_projects/blob/master/comments_toxicity/comments_toxicity.ipynb)|Для определения токсичности комментариев необходимо обучить классификационную модель, которая предсказывает класс комментария.
-| [02. Исследование технологического процесса очистки золота](https://nbviewer.org/github/Muirehen/learning_projects/blob/master/gold_prediction/gold_prediction.ipynb)|Чтобы не запускать убыточное производство, необходимо обучить регрессионную модель, которая предсказывают коэффициент восстановления золота на основе данных добычи и очистки руды.|
-| [03. Построение модели определения стоимости автомобиля](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/segmentation/pyTorch_Segmentation_Solomko_ipynb_.ipynb)|Реализация архитектур нейронных сетей для задач сегментации, pyTorch|
-| [04. Компьютерное зрение. Автоэнкодеры](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/autoencoders/AutoEncoders_Solomko.ipynb)|Реализация архитектур нейронных сетей автокодировщиков, pyTorch|
-| [05. Компьютерное зрение. GAN](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/gan/pyTorch_GAN_s.ipynb)|Реализация архитектур нейронных сетей GAN, pyTorch|
-| [06. Simpsons классификация. CNN](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/kaggle_simpson/Simpsons_classifier_Solomko.ipynb)|Классификация. Компьютерное зрение|
-| [07. Модуль детекции объектов](https://detartyseg.herokuapp.com/)|Детекция, сегментация на кастомном сете данных, создание приложения|
-
+| **Название проекта** | **Описание** |
+| -------------------- | --------------------- |
+| [01. Обучение модели классификации комментариев](https://github.com/Muirehen/learning_projects/tree/master/comments_toxicity)|Интернет-магазин запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. То есть клиенты предлагают свои правки и комментируют изменения других. Требуется инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.|
+| [02. Исследование технологического процесса очистки золота](https://github.com/Muirehen/learning_projects/tree/master/gold_prediction)|Строится модель машинного обучения для промышленной компании, разрабатывающая решения для эффективной работы промышленных предприятий. Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды на основе данных с параметрами добычи и очистки. Модель поможет оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками.|
+| [03. Построение модели определения стоимости автомобиля](https://github.com/Muirehen/learning_projects/tree/master/price_prediction)|Сервис по продаже автомобилей с пробегом  разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля. На основе исторические данные необходимо построить модель для определения стоимости автомобиля.|
 
 <a href="#link1"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
 
 
 
 
-<!---width="100%" cellspacing="0" cellpadding="0"
-  <h2>Junior Data Scientist</h2>
-  <h1 style="margin-right: 110px;font-size:10%"> Hi there, I'm Kirill</h1>
-  <img src="https://github.com/Muirehen/images/blob/master/pepe.gif" style="float:right"; height="32" width="32" alt="Pepe the Frog">
-<h3 align="center">Junior Data Scientist</h3>
-Muirehen/Muirehen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>  </a> 
-<img src="https://github.com/Muirehen/images/blob/master/pepe.gif" height="32" width="32" alt="Pepe the Frog">
-<div class="top-line-fix" align="center">
-</div>
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<!---
 --->
