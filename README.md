@@ -45,27 +45,20 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/miscellaneous libraries-blue">
-</p>
-
 
 ---
 
 <h3 align="center"> :telescope: Учебные проекты Data Science </h3>
 
-<p align="center"> Проекты Data Science. Deep learning </p align="center">
-
-
-| **Проект** | **Тип исследования** | **Статус** |
-| -------------------- | :--------------------- |:---------------------------:|
-| [01. Компьютерное зрение. Регрессия](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/blob/main/neural_network/image_age_recognition.ipynb)|Необходимо построить модель, которая по фотографии определит приблизительный возраст человека. В нашем распоряжении набор фотографий людей с указанием возраста|Завершен|
-| [02. Обучение нейронных сетей. DLS](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/py_torch_baseline/py_toch_baseline.ipynb)|Полный цикл обучения ANN, CNN на pyTorch|Завершен|
-| [03. Компьютерное зрение. Сегментация](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/segmentation/pyTorch_Segmentation_Solomko_ipynb_.ipynb)|Реализация архитектур нейронных сетей для задач сегментации, pyTorch|Завершен|
-| [04. Компьютерное зрение. Автоэнкодеры](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/autoencoders/AutoEncoders_Solomko.ipynb)|Реализация архитектур нейронных сетей автокодировщиков, pyTorch|Завершен|
-| [05. Компьютерное зрение. GAN](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/gan/pyTorch_GAN_s.ipynb)|Реализация архитектур нейронных сетей GAN, pyTorch|Завершен|
-| [06. Simpsons классификация. CNN](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/kaggle_simpson/Simpsons_classifier_Solomko.ipynb)|Классификация. Компьютерное зрение|Завершен|
-| [07. Модуль детекции объектов](https://detartyseg.herokuapp.com/)|Детекция, сегментация на кастомном сете данных, создание приложения|Завершен|
+| **Проект** | **Тип исследования** |
+| -------------------- | :--------------------- |
+| [01. Машинное обучение для текстов](https://nbviewer.jupyter.org/github/Muirehen/learning_projects/blob/master/comments_toxicity/comments_toxicity.ipynb)|Для определения токсичности комментариев необходимо обучить классификационную модель, которая предсказывает класс комментария.
+| [02. Исследование технологического процесса очистки золота](https://nbviewer.org/github/Muirehen/learning_projects/blob/master/gold_prediction/gold_prediction.ipynb)|Чтобы не запускать убыточное производство, необходимо обучить регрессионную модель, которая предсказывают коэффициент восстановления золота на основе данных добычи и очистки руды.|
+| [03. Построение модели определения стоимости автомобиля](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/segmentation/pyTorch_Segmentation_Solomko_ipynb_.ipynb)|Реализация архитектур нейронных сетей для задач сегментации, pyTorch|
+| [04. Компьютерное зрение. Автоэнкодеры](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/autoencoders/AutoEncoders_Solomko.ipynb)|Реализация архитектур нейронных сетей автокодировщиков, pyTorch|
+| [05. Компьютерное зрение. GAN](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/gan/pyTorch_GAN_s.ipynb)|Реализация архитектур нейронных сетей GAN, pyTorch|
+| [06. Simpsons классификация. CNN](https://nbviewer.org/github/ArtyKrafty/Data_science_projects/blob/main/kaggle_simpson/Simpsons_classifier_Solomko.ipynb)|Классификация. Компьютерное зрение|
+| [07. Модуль детекции объектов](https://detartyseg.herokuapp.com/)|Детекция, сегментация на кастомном сете данных, создание приложения|
 
 
 <a href="#link1"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
