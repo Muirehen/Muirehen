@@ -9,8 +9,7 @@
 <h3> :man_technologist: Обо мне :</h3>
 
 - Junior Data Scientist | Data Analyst из Москвы.
-- Учился в Яндекс Практикуме.
-- ⚡ В данный момент ищу работу как ML Engineer | Data Science Specialist.
+- Работаю в Reshape Analytics.
 - В свободное время занимаюсь скалолазанием и фотографией.
 
 <div id="badges" >
