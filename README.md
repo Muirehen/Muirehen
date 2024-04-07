@@ -8,7 +8,7 @@
 </div>
 <h3> :man_technologist: Обо мне :</h3>
 
-- Junior Data Scientist | Data Analyst из Москвы.
+- Junior ML Developer из Москвы.
 - Работаю в Reshape Analytics.
 - В свободное время занимаюсь скалолазанием и фотографией.
 
@@ -38,10 +38,12 @@
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 
-  
+
+  <img src="https://img.shields.io/badge/Django-%8A2BE2.svg?style=for-the-badge&logo=Django&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  
 </p>
 
 
