@@ -8,7 +8,7 @@
 </div>
 <h3> :man_technologist: Обо мне :</h3>
 
-- Junior ML Developer из Москвы.
+- ML Developer из Москвы.
 - Работаю в Reshape Analytics.
 - В свободное время занимаюсь скалолазанием и фотографией.
 
