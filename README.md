@@ -8,8 +8,7 @@
 </div>
 <h3> :man_technologist: Обо мне :</h3>
 
-- ML Developer из Москвы.
-- Работаю в Reshape Analytics.
+- ML Engineer из Москвы.
 - В свободное время занимаюсь скалолазанием и фотографией.
 
 <div id="badges" >
